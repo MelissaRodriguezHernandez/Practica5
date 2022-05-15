@@ -5,9 +5,9 @@
 ## Versionado semántico
 
 v1.0.0 : Creamos la interfaz ICalculadora con los métodos abstractos: suma, resta, multiplicación y división. 
-Por último creamos la clase Calculadora que implementara los métodos de la interfaz.
+Por último creamos la clase Calculadora que implementará los métodos de la interfaz.
 
-v1.0.1 : Se creara una clase testCalculadora donde se haran los tests de cada metodo implementado de la clase Calculadora
+v1.0.1 : Se creará una clase testCalculadora donde se harán los tests de cada método implementado de la clase Calculadora
 
 ## Diagrama de ramas
 
